@@ -16,7 +16,7 @@ public class cd2 {
 		for (n = 0; n <= 999; n++) {
 			// exibir na tela
 			System.out.println(
-					"Responda a pesquisa de acordo com suas informações\nGenero:\n0-Feminino\n1-Masculino\n2-Outros");
+					"Responda a pesquisa de acordo com suas informaÃ§Ãµes\nGenero:\n0-Feminino\n1-Masculino\n2-Outros");
 			// atribuindo valor digitado pelo usuario
 			g = batman.nextInt();
 			// switch para armazenar os dados digitados
